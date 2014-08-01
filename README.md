@@ -20,7 +20,8 @@ Password = userone
 
 --------------------------------------------------------
 
-It is inteded for showing interviewer.
+
 Because of my previous company, my employer's rules and 
 policies, I cannot tell the information of the past projects.
-
+That's why I created this project for the sole purpose of 
+applying the job.
