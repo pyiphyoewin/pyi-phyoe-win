@@ -9,7 +9,7 @@ http://localhost/bookstore/public/
 
 Project's URL for Administrator
 
-http://localhost/bookstore/public/lgoin
+http://localhost/bookstore/public/login
 
 --------------------------------------------------------
 
